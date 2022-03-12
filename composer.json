@@ -1,0 +1,19 @@
+{
+    "name": "xavierdan/galaxy-swiss-bourdin",
+    "description": "Projet GSB pour le BTS SIO SLAM",
+    "autoload": {
+        "psr-4": {
+            "Xavierdan\\GalaxySwissBourdin\\": "src/",
+            "Xavierdan\\GalaxySwissBourdin\\App\\": "app/",
+            "Xavierdan\\GalaxySwissBourdin\\Controllers\\": "src/Controllers",
+            "Xavierdan\\GalaxySwissBourdin\\Models\\": "src/Models"
+        }
+    },
+    "authors": [
+        {
+            "name": "XavierDan94",
+            "email": "dan.xavier94@gmail.com"
+        }
+    ],
+    "require": {}
+}
